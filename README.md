@@ -6,14 +6,14 @@ Bem-vindo ao meu repositório de scripts Oracle! Este repositório foi criado pa
 
 A estrutura deste repositório é organizada da seguinte forma:
 
-📁 scripts/
-📁 backups/
-📄 backup.sql
-📁 admin/
-📄 create_user.sql
-📄 drop_user.sql
-📁 queries/
-📄 select_example.sql
+📁 scripts/ <br>
+📁 backups/ <br>
+📄 backup.sql <br>
+📁 admin/ <br>
+📄 create_user.sql <br>
+📄 drop_user.sql <br>
+📁 queries/ <br>
+📄 select_example.sql <br>
 📄 LICENSE
 
 
