@@ -6,7 +6,6 @@ Bem-vindo ao meu repositório de scripts Oracle! Este repositório foi criado pa
 
 A estrutura deste repositório é organizada da seguinte forma:
 
-📁 scripts/ <br>
 📁 backups/ <br>
 📄 backup.sql <br>
 📁 admin/ <br>
